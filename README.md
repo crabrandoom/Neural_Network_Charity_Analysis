@@ -1,14 +1,25 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview
+
 Data Preprocessing
     -What variable(s) are considered the target(s) for your model?
    
     IS_SUCCESSFUL
     
-    -What variable(s) are considered to be the features for your model?
+   -What variable(s) are considered to be the features for your model?
+    
+    'ASK_AMT','CLASSIFICATION','INCOME_AMT','APPLICATION_TYPE', 'NAME'
     
    -What variable(s) are neither targets nor features, and should be removed from the input data?
+   
+    AFFILIATION                   
+    USE_CASE                      
+    ORGANIZATION                  
+    STATUS                        
+    SPECIAL_CONSIDERATIONS        
+
+   
 
 ## Results
 Compiling, Training, and Evaluating the Model
