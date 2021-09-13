@@ -29,15 +29,15 @@ Compiling, Training, and Evaluating the Model
 
    -How many neurons, layers, and activation functions did you select for your neural network model, and why?
   
-  3 hidden layers that used relu, and the outer layer used Sigmoid
+        3 hidden layers that used relu, and the outer layer used Sigmoid
   
    -Were you able to achieve the target model performance?
    
-  Yes
+        Yes
   
    -What steps did you take to try and increase model performance?
    
-   I added an extra hidden layer and then added another categorical variable that was initially discarded
+        I added an extra hidden layer and then added another categorical variable that was initially discarded
   
 ## Summary
 Applicant is 80% likely to be successful if their name appears more than 5 times.
