@@ -1,8 +1,10 @@
 # Neural_Network_Charity_Analysis
 
-
-
 ## Overview
+
+A CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years is being analyzed in order to work to help the foundation predict where to make investments.
+
+## Results
 
 ### Data Preprocessing
     -What variable(s) are considered the target(s) for your model?
@@ -21,9 +23,6 @@
     STATUS                        
     SPECIAL_CONSIDERATIONS        
 
-   
-
-## Results
 
 ### Compiling, Training, and Evaluating the Model
 
